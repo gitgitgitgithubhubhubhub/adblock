@@ -1,0 +1,108 @@
+! Title: Adblock Personal Filters
+
+*.adxxx.com/*
+*.user-red.com/*
+||2ip.ru/bar/$image
+||camwhores.tv/banners/*
+||creative.stripchat.com/*$subdocument
+||promos.camsoda.com/promos/banners/*
+||toy69.ru/index.php?route=module/ap_iframe/iframe$subdocument
+||www.camwhores.tv/banners/*$image
+||www.fetishshrine.com/plugin.php
+||www.wpnrtnmrewunrtok.xyz/*$image
+0483bm4mlow8.xyz/*
+145.239.67.84/*
+27015dbc43d77c.com/*
+analytics.spankbang.com
+anon-v.com##.videos-kickass
+anon-v.com##a[href="//b54m4qbmt0b9.com/1539729.html"]
+aoredi.com/*
+b54m4qbmt0b9.com/*
+cdn.camwhores.tv/js/*
+cdn.popcash.net/*
+chatfocus.com
+chaturbate.com/affiliates/promotools/popup/*
+conceau.co
+data.awakebottlestudy.com/*
+filadmir.site/*
+fwbntw.com/*
+go.cdna.me
+hilltopads.net/*
+anon-v.com/?mode=async&action=js_stats*
+anon-v.com/pop.js
+http://d3e44a82c2df88.com/*
+http://img0.joyreactor.cc/images/loading.gif
+http://rule34hentai.net/*.png$domain=rule34hentai.net,image
+http://theteenbay.co/trade/
+http://www.camwhores.tv/js/holaspark.js
+http://www.camwhores.video/ads.txt
+https://b.misslk.com/p.js
+https://lite-iframe.stripcdn.com/*
+https://piratecams.com/scp/*
+https://piratecams.com/trade/*
+https://piratecams.com/trade/go.php
+https://stripchat.com/*
+https://vk.com/js/al/time_spent.js
+https://vk.com/login.php?act=slogin&auto=1&to=&s=0
+https://www.instagram.com/client_error/
+https://www.instagram.com/stories/reel/*
+linkis.com##DIV[class="modal-popup deeper-overlay"]
+meetthegame.online/*
+moradu.com/*
+mystalk.com##div.col-lg-4.col-md-6:nth-of-type(1)
+mystalk.com##div.col-lg-4.col-md-6:nth-of-type(10)
+mystalk.com##div.col-lg-4.col-md-6:nth-of-type(5)
+oilchange.website/*
+openload.co/logpopup/
+pikdo.net##.mostPopularTags.tagHeader.container
+pikdo.net##.pptab.col-lg-4.col-md-6.col-sm-6.col-xs-12
+pikdo.net###suggestedUsers
+piratecams.com/cdn-cgi/
+piratecams.com/trade/script.js
+piratecams.com/wp-includes/js/wp-emoji-release.min.js
+player.h-cdn.com/loader.js
+popcash.net/*
+porn18sex.com/*
+pornolab.net###tleahcim > table
+qfmbgvgvauvt.com/
+quicktask.xyz/*
+rah7uph.bid/*
+rxjqpt.joyreactor.cc/*
+script.packed.js$domain=theteenbay.co
+sexwebvideo.com/assets/js/scripts.js
+sexwebvideo.com/js/advertising.js
+static.adxxx.com/*
+static.user-red.com/*
+syndication.exoclick.com/
+tebadu.com/*
+theteenbay.co/scp/license.3.js
+theteenbay.co/scp/license2.js
+theteenbay.co/scp/script.js
+theteenbay.co/trade/in.php
+theteenbay.co##BetterJsPop.add('http://theteenbay.co/trade/traffic.php?go=TOP', {under:true, newTab: true, 'cookieExpires':1200});]
+theteenbay.co##script[BetterJsPop.add('http://theteenbay.co/trade/traffic.php', {under:true, newTab: false, 'cookieExpires':900});]
+tororango.com
+www.camwhores.tv/contents/other/player/*
+www.camwhores.tv###chatbroId
+www.camwhores.video##a[href="//d3e44a82c2df88.com/858740.html"]
+www.cdn.camwhores.tv/js/*
+www.instagram.com##._2pnef._cqw45
+www.instagram.com##._9AhH0
+www.instagram.com##._b3en3._445wt._8p0o3._okmo7
+www.instagram.com##._si7dy
+www.instagram.com##.Fzijm.bR_3v
+www.instagram.com##DIV[class="_b1dus"]
+www.instagram.com##DIV[class="_ovg3g"]
+www.pornhub.com##.onesuch:nth-of-type(1) > iframe
+www.pornhub.com##.onesuch:nth-of-type(1) > iframe
+www.pornhub.com##.onesuch:nth-of-type(2) > iframe
+www.pornhub.com##.onesuch:nth-of-type(2) > iframe
+www.pornhub.com###age-verification-container
+www.pornhub.com###age-verification-wrapper
+www.terraclicks.com/*
+www.tube8.com##DIV[id="adBlockAlertWrap"][class="adBlockAlertWrapper"]
+www.youtube.com##DIV[id="ticker"][class="yt-alert yt-alert-actionable yt-alert-info  alert-with-actions show"]
+xhamster.com##.ads-section > .width-wrap
+xhamster.com##.player-container > .banner-container
+xxxaporn.com##DIV[class="adsbyadsn"]
+xxxaporn.com##IMG[src="http://www.xxxaporn.com/thumbs/sky.gif"]
