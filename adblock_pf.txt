@@ -2,11 +2,9 @@
 
 *.adxxx.com/*
 *.user-red.com/*
-||2ip.ru/bar/$image
 ||camwhores.tv/banners/*
 ||creative.stripchat.com/*$subdocument
 ||promos.camsoda.com/promos/banners/*
-||toy69.ru/index.php?route=module/ap_iframe/iframe$subdocument
 ||www.camwhores.tv/banners/*$image
 ||www.fetishshrine.com/plugin.php
 ||www.wpnrtnmrewunrtok.xyz/*$image
@@ -42,8 +40,6 @@ https://piratecams.com/scp/*
 https://piratecams.com/trade/*
 https://piratecams.com/trade/go.php
 https://stripchat.com/*
-https://vk.com/js/al/time_spent.js
-https://vk.com/login.php?act=slogin&auto=1&to=&s=0
 https://www.instagram.com/client_error/
 https://www.instagram.com/stories/reel/*
 linkis.com##DIV[class="modal-popup deeper-overlay"]
