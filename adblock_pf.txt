@@ -52,6 +52,7 @@ oilchange.website/*
 openload.co/logpopup/
 pikdo.net##.mostPopularTags.tagHeader.container
 pikdo.net##.pptab.col-lg-4.col-md-6.col-sm-6.col-xs-12
+pikdo.org##div.pptab.col-lg-4.col-md-6.col-sm-6.col-xs-12:nth-of-type(1)
 pikdo.net###suggestedUsers
 piratecams.com/cdn-cgi/
 piratecams.com/trade/script.js
@@ -95,6 +96,7 @@ www.pornhub.com##.onesuch:nth-of-type(2) > iframe
 www.pornhub.com##.onesuch:nth-of-type(2) > iframe
 www.pornhub.com###age-verification-container
 www.pornhub.com###age-verification-wrapper
+www.pornhub.com##milktruck
 www.terraclicks.com/*
 www.tube8.com##DIV[id="adBlockAlertWrap"][class="adBlockAlertWrapper"]
 www.youtube.com##DIV[id="ticker"][class="yt-alert yt-alert-actionable yt-alert-info  alert-with-actions show"]
