@@ -112,3 +112,10 @@ sklm.vornz.com
 https://theteenbay.co/scp/plugin.js
 piratecams.com/pclog.js
 theteenbay.co/logsttb.js
+adultdeepfakes.com###sc-canvas-8403650-video_sidebar
+adultdeepfakes.com##.lg\:block.hidden.mb-10
+gelbooru.com##div:nth-of-type(3) > center
+www.mystalk.net##.vertical-user-card-advert.user-card
+www.picuki.com##.adv.long-br
+www.google.com##.wwYr3.aID8W.bErdLd
+www.google.com##.aID8W.m114nf.t7xA6
