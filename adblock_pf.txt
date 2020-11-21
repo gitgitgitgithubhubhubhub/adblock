@@ -119,3 +119,4 @@ www.mystalk.net##.vertical-user-card-advert.user-card
 www.picuki.com##.adv.long-br
 www.google.com##.wwYr3.aID8W.bErdLd
 www.google.com##.aID8W.m114nf.t7xA6
+www.youtube.com###consent-bump > .ytd-consent-bump-lightbox.style-scope
